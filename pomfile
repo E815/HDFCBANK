@@ -1,1 +1,11 @@
-
+<project xmlns="http://" /opt/apache-maven-3.6.1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+  xsi:schemaLocation="http://" /opt/apache-maven-3.6.1"
+http://maven.apache.org/xsd/maven-3.6.1.xsd">  
+  
+  <modelVersion>3.6.1</modelVersion>  
+  <groupId>com.javatpoint.application1</groupId>  
+  <artifactId>my-app</artifactId>  
+  <version>1</version>  
+  
+</project>  
